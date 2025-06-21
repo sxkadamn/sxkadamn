@@ -18,9 +18,9 @@
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,java,html,css,postgres,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,githubactions,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=gradle,githubactions,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,ultimate&perline=7" />
     <br>
