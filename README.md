@@ -11,8 +11,8 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@sxkadamn)
 
 
-## 🙏 Visit my website
-[sxkadamn's docs](https://sxkadamn.github.io/sxkadamn) - Here I post helpful IT manuals. They can be used as references
+## 🙏 Visit my telegramsite
+[sxkadamn's docs](https://t.me/+XySSpeUiGI1jZDg8) - Here I post helpful IT manuals. They can be used as references
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
