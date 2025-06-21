@@ -10,7 +10,7 @@
 
 
 ## 🙏 Visit my website
-[BaggerFast's docs](https://sxkadamn.github.io/sxkadamn) - Here I post helpful IT manuals. They can be used as references
+[sxkadamn's docs](https://sxkadamn.github.io/sxkadamn) - Here I post helpful IT manuals. They can be used as references
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
