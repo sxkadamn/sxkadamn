@@ -24,11 +24,11 @@
 
 ## 🔥 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxkadamn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://img.shields.io/github/stars/sxkadamn/DynamicWorldFusion?style=for-the-badge&logo=github&color=0d1117" />
+  <img src="https://img.shields.io/github/forks/sxkadamn/DynamicWorldFusion?style=for-the-badge&logo=github&color=0d1117" />
+  <img src="https://img.shields.io/github/followers/sxkadamn?style=for-the-badge&logo=github&color=0d1117" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxkadamn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sxkadamn&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
