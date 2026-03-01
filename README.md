@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
   <img height="280" width="640" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
@@ -25,41 +24,21 @@
 
 ## 🔥 Stats
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=sxkadamn&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=sxkadamn&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sxkadamn&show_icons=true&theme=default&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=sxkadamn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sxkadamn&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sxkadamn&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxkadamn&layout=compact&theme=default&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxkadamn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sxkadamn&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sxkadamn&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sxkadamn&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📌 Projects
+## 📌 Project
 <p align="center">
   <a href="https://github.com/sxkadamn/DynamicWorldFusion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxkadamn&repo=DynamicWorldFusion&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sxkadamn/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxkadamn&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxkadamn&repo=DynamicWorldFusion&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
