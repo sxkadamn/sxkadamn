@@ -38,7 +38,7 @@
 ## 📌 Project
 <p align="center">
   <a href="https://github.com/sxkadamn/DynamicWorldFusion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxkadamn&repo=DynamicWorldFusion&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://img.shields.io/badge/DynamicWorldFusion-Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
