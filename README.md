@@ -12,17 +12,60 @@
 
 ---
 
-## About
+## Обо мне
 Я пишу Java‑сервисы и игровые решения, собираю надежную инфраструктуру и люблю наглядную аналитику.  
 Здесь мои проекты, заметки и эксперименты.
 
-## Docs
+## Документация
 **sxkadamn’s docs** — практичные IT‑руководства и заметки.  
 → https://t.me/+XySSpeUiGI1jZDg8
 
 ---
 
-## 🔥 Stats
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DynamicWorldFusion</h3>
+      <p>
+        Инструменты и механики для динамической работы с игровыми мирами.
+      </p>
+      <p>
+        <a href="https://github.com/sxkadamn/DynamicWorldFusion">
+          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Minecraft-0d1117?style=flat&logo=minecraft&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ReCases</h3>
+      <p>
+        Плагин кейсов для Minecraft / Spigot с addon API, кастомными анимациями и подключением через JitPack.
+      </p>
+      <p>
+        <a href="https://github.com/sxkadamn/ReCases">
+          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JitPack-Ready-0d1117?style=flat&logo=jitpack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-17-0d1117?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spigot%20%2F%20Paper-1.20+-0d1117?style=flat&logo=minecraft&logoColor=white" />
+      </p>
+      <p>
+        <code>com.github.sxkadamn.ReCases:recases-api:1.0.1</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Статистика
 <p align="center">
   <img src="https://img.shields.io/github/stars/sxkadamn/DynamicWorldFusion?style=for-the-badge&logo=github&color=0d1117" />
   <img src="https://img.shields.io/github/forks/sxkadamn/DynamicWorldFusion?style=for-the-badge&logo=github&color=0d1117" />
@@ -35,7 +78,7 @@
 
 ---
 
-## 💻 Languages
+## Технологии
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -44,25 +87,16 @@
 
 ---
 
-## 📌 Project
-<p align="center">
-  <a href="https://github.com/sxkadamn/DynamicWorldFusion">
-    <img src="https://img.shields.io/badge/DynamicWorldFusion-Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <details>
-  <summary><b>📚 Stack</b></summary>
+  <summary><b>Стек</b></summary>
   <br/>
-  <b>Languages</b><br/>
+  <b>Языки</b><br/>
   <img src="https://skillicons.dev/icons?i=java,postgres,sqlite&perline=7" />
   <br/><br/>
-  <b>Frameworks / Tools</b><br/>
+  <b>Инструменты</b><br/>
   <img src="https://skillicons.dev/icons?i=gradle,githubactions,git&perline=7" />
   <br/><br/>
-  <b>Software</b><br/>
+  <b>Софт</b><br/>
   <img src="https://skillicons.dev/icons?i=visualstudio,idea&perline=7" />
 </details>
 
