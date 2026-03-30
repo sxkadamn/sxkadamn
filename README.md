@@ -13,16 +13,14 @@
 ---
 
 ## Обо мне
-Я пишу Java‑сервисы и игровые решения, собираю надежную инфраструктуру и люблю наглядную аналитику.  
+Я пишу Java-сервисы и игровые решения, собираю надежную инфраструктуру и люблю наглядную аналитику.  
 Здесь мои проекты, заметки и эксперименты.
 
 ## Документация
-**sxkadamn’s docs** — практичные IT‑руководства и заметки.  
+**sxkadamn’s docs** — практичные IT-руководства и заметки.  
 → https://t.me/+XySSpeUiGI1jZDg8
 
 ---
-
-## Featured Projects
 
 ## Featured Projects
 
@@ -84,6 +82,23 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>ReCasino</h3>
+      <p>
+        Плагин казино для Minecraft / Spigot с addon API, кастомными режимами, анимациями и подключением через JitPack.
+      </p>
+      <p>
+        <a href="https://github.com/sxkadamn/ReCasino">
+          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JitPack-Ready-0d1117?style=flat&logo=jitpack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-17-0d1117?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spigot%20%2F%20Paper-1.20.6-0d1117?style=flat&logo=minecraft&logoColor=white" />
+      </p>
+      <p>
+        <code>com.github.sxkadamn.ReCasino:recasino-api:v1.1.2</code>
+      </p>
     </td>
   </tr>
 </table>
