@@ -60,6 +60,27 @@
         <code>com.github.sxkadamn.ReCases:recases-api:1.0.1</code>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>ReAuction</h3>
+      <p>
+        Аукционный плагин для Minecraft / Paper с лотами, ставками, buy orders, почтой, антиабузом и статистикой через голограммы.
+      </p>
+      <p>
+        <a href="https://github.com/sxkadamn/ReAuction">
+          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-0d1117?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Paper-1.21.8-0d1117?style=flat&logo=minecraft&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite%20%2F%20MySQL-Ready-0d1117?style=flat&logo=sqlite&logoColor=white" />
+      </p>
+      <p>
+        <code>/ah</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
   </tr>
 </table>
 
