@@ -24,6 +24,8 @@
 
 ## Featured Projects
 
+## Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -60,6 +62,8 @@
         <code>com.github.sxkadamn.ReCases:recases-api:1.0.1</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>ReAuction</h3>
       <p>
